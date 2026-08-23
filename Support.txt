@@ -1,0 +1,1 @@
+Run a Playwright Test -- npx playwright test
