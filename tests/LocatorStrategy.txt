@@ -1,0 +1,12 @@
+// Locator Priority
+
+1. Role
+2. Label
+3. Placeholder
+4. Text
+5. TestId
+6. CSS Selector - Class Value Based CSS Selector, id value Based CSS Selector
+Class Value Based CSS Selector  - <tagname>.<classValue> - Example - input.gh-search-input.gh-tb.ui-autocomplete-input
+id value Based CSS Selector  - <tagname>#<idValue>
+
+7. Xpath

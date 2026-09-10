@@ -1,4 +1,4 @@
-Tools - Node, Playwright, Git,TypeScript
+Tools - Node, Playwright, Git,TypeScript, GitHub
 Availability of Playwright - npx playwright test
 Install Playwright in the system - npm install -D @playwright/test
 Run a Playwright Test -- npx playwright test
