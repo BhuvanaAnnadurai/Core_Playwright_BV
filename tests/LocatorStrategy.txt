@@ -10,3 +10,8 @@ Class Value Based CSS Selector  - <tagname>.<classValue> - Example - input.gh-se
 id value Based CSS Selector  - <tagname>#<idValue>
 
 7. Xpath
+    1. Absolute x path - Not preferable
+    2. Relative x path - Higly preferable 
+
+    //tagname[@attributename='attributevalue']  --- //input[@class='gh-search-input gh-tb ui-autocomplete-input']
+    // text based x path --------------------------   //a[text()='Deals']
